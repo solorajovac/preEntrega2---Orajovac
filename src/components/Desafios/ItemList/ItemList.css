@@ -1,0 +1,10 @@
+.estilos-listado{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 90%;
+    height: auto;
+}

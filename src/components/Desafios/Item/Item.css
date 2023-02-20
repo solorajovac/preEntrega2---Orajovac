@@ -1,0 +1,33 @@
+.tarjeta-producto{
+    width: 250px;
+    height: 280px;
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(207, 200, 14);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tarjeta-producto h4, p{
+    margin: 0;
+    font-size: 15px;
+    color: #000000;
+}
+.tarjeta-producto img{
+    width: 100%;
+}
+.boton-ver{
+    font-size: 10px;
+    padding: 4px;
+    border-radius: 3px;
+    background-color: #851515;
+    border-color: #851515;
+    color: white;
+    margin: auto 2px 0 2px;
+}
+
+.boton-ver:hover {
+    background-color: #9d3b3b;
+}
